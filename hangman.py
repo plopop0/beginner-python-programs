@@ -36,8 +36,6 @@ def hangman():
         else:
             print('Invalid character. Please try again.')
 
-    
-
 hangman()
 
 
